@@ -25,3 +25,23 @@ Ejercicio de Modelado: Dibujar un diagrama de flujo que represente el proceso de
 Ejercicio de Patrones: Identificar patrones en una lista de números y describir la relación entre ellos.
 0,2,4,6,8,10...
 la relacion de los numeros es que va de 2 en 2, al numero anterir se le suman 2
+
+Escribir en pseudocódigo un algoritmo que determina si un número es par o impar.
+ALGORITMO-Par_impaar
+INICIO
+  Escribir: ingrese el numero
+  Leer numero 
+  mitad= Numero/2
+  si mitad *2 == Numero
+  esscribir: numero es par
+  sino
+  escribir:  numero impar
+  
+Dibujar un diagrama de flujo que represente el proceso de inscripción en una plataforma en línea.
+
+![Imagen de WhatsApp 2025-03-20 a las 00 34 29_2bdfa3d4](https://github.com/user-attachments/assets/9abe7759-db06-495d-912f-01cad989d300)
+analizar la eficiencia de los siguientes algoritmos y expresarla en notación Big-O:
+Búsqueda secuencial en una lista.
+Ordenamiento por burbuja.
+Búsqueda binaria en una matriz ordenada.
+Implementar en pseudocódigo un algoritmo que calcula el factorial de un número.v

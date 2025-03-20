@@ -13,6 +13,12 @@ Hacer café con leche:
 10) revolvemos todos los ingredientes 
 11) finalmente lo consumimos
 Ejercicio de Abstracción: Explicar cómo funciona un semáforo sin mencionar detalles internos del circuito electrónico.
+el semaforo es aparato que se encuentra en las vias mayormente de las ciudades y ayua mantener la seguridad de ellas y el control. el semaforo tiene 3 colores y cada uno cumpre con una funcion
+rojo: indica que se deben detener
+amarillo: indica que los vehículos deben de ir paramdo
+verde: indica que puede seguir
+estos colores cambian en orden en intervalos de tiempo determinado para mentener el control de la circulacion de los vehiculos 
 
 Ejercicio de Modelado: Dibujar un diagrama de flujo que represente el proceso de inscripción a una universidad.
+
 Ejercicio de Patrones: Identificar patrones en una lista de números y describir la relación entre ellos.

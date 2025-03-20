@@ -21,4 +21,7 @@ estos colores cambian en orden en intervalos de tiempo determinado para mentener
 
 Ejercicio de Modelado: Dibujar un diagrama de flujo que represente el proceso de inscripción a una universidad.
 
+![Imagen de WhatsApp 2025-03-19 a las 22 04 00_c270fd98](https://github.com/user-attachments/assets/f2257b13-1ee2-400f-91b3-f7f9bb9e542b)
 Ejercicio de Patrones: Identificar patrones en una lista de números y describir la relación entre ellos.
+0,2,4,6,8,10...
+la relacion de los numeros es que va de 2 en 2, al numero anterir se le suman 2

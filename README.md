@@ -28,14 +28,25 @@ la relacion de los numeros es que va de 2 en 2, al numero anterir se le suman 2
 
 Escribir en pseudocódigo un algoritmo que determina si un número es par o impar.
 ALGORITMO-Par_impaar
+
 INICIO
+
   Escribir: ingrese el numero
+  
+  
   Leer numero 
+  
   mitad= Numero/2
+  
   si mitad *2 == Numero
+  
   esscribir: numero es par
+  
   sino
+  
   escribir:  numero impar
+
+FINAL
   
 Dibujar un diagrama de flujo que represente el proceso de inscripción en una plataforma en línea.
 
@@ -59,9 +70,12 @@ Convierte el número decimal 13 a binario.
 13= 1101
 
 Escribe una expresión que utilice operadores lógicos para verificar si un número está entre 10 y 20.
+
 resultado -( 18 < 17) y (18 >19) comparacion// verdadero 
 
 Implementa un algoritmo en PSeInt que utilice operadores aritméticos y lógicos para calcular si un número es par o impar.
+
+
 INICIO
   escribir: ingrese el numero 
   leer numero 
@@ -72,6 +86,8 @@ INICIO
 FIN 
 
 Escribe un algoritmo en PSeInt que solicite el nombre de un usuario y lo salude.
+
+
 INICIO
   escribir: ingrese su nombre 
   leeer nombre
@@ -80,7 +96,10 @@ INICIO
 FINAL
 Crea un programa que pida un número y valide que sea positivo.
 
+
 Desarrolla un algoritmo que solicite tres números y muestre la suma de ellos.
+
+
 INICIO
   escribir: ingrese N1 
   leer N1
@@ -104,6 +123,8 @@ FIN
 
   
 Realiza una prueba de escritorio para un algoritmo que multiplique dos números ingresados por el usuario.
+
+
 INICIO
   escribir: ingrese N1 
   leer N1
@@ -112,6 +133,7 @@ INICIO
   resultado = N1*N2 
   escribir el resultado
 FIIN 
+
 PRUEBA 
 N1= 5 
 N2= 3 

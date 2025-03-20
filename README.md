@@ -44,10 +44,14 @@ analizar la eficiencia de los siguientes algoritmos y expresarla en notación Bi
 Búsqueda secuencial en una lista.
 Ordenamiento por burbuja.
 Búsqueda binaria en una matriz ordenada.
-Implementar en pseudocódigo un algoritmo que calcula el factorial de un número.v
+Implementar en pseudocódigo un algoritmo que calcula el factorial de un número.v 
 Declara una variable para almacenar la edad de una persona y asigna un valor. 
-edad= 20 la variable es la edad de una persona 
+edad= 20 la variable es la edad de una 
+persona 
 Escribe una expresión que combine operadores aritméticos y relacionales.
+comparacion (10 > 15) comparacion // falso 
 Convierte el número decimal 13 a binario.
+13= 1101
 Escribe una expresión que utilice operadores lógicos para verificar si un número está entre 10 y 20.
+
 Implementa un algoritmo en PSeInt que utilice operadores aritméticos y lógicos para calcular si un número es par o impar.

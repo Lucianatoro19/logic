@@ -45,3 +45,9 @@ Búsqueda secuencial en una lista.
 Ordenamiento por burbuja.
 Búsqueda binaria en una matriz ordenada.
 Implementar en pseudocódigo un algoritmo que calcula el factorial de un número.v
+Declara una variable para almacenar la edad de una persona y asigna un valor. 
+edad= 20 la variable es la edad de una persona 
+Escribe una expresión que combine operadores aritméticos y relacionales.
+Convierte el número decimal 13 a binario.
+Escribe una expresión que utilice operadores lógicos para verificar si un número está entre 10 y 20.
+Implementa un algoritmo en PSeInt que utilice operadores aritméticos y lógicos para calcular si un número es par o impar.

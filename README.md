@@ -65,4 +65,59 @@ Implementa un algoritmo en PSeInt que utilice operadores aritméticos y lógicos
 INICIO
   escribir: ingrese el numero 
   leer numero 
+  si numero % 2= 0 entonces 
+  escribir: el numero es par 
+  sino
+  escribir: el numero es impar
+FIN 
+
+Escribe un algoritmo en PSeInt que solicite el nombre de un usuario y lo salude.
+INICIO
+  escribir: ingrese su nombre 
+  leeer nombre
+  definir el nomnbre 
+  escribir: hola x (nombre) bienvenido 
+FINAL
+Crea un programa que pida un número y valide que sea positivo.
+
+Desarrolla un algoritmo que solicite tres números y muestre la suma de ellos.
+INICIO
+  escribir: ingrese N1 
+  leer N1
+  escribir: ingrese N2
+  leer N2 
+  escribir: ingrese N3
+  leer N3 
+  resultado= N1+N2+N3
+  escribir el resultado
+FIN 
+
+Implementa una solución que pida la edad de una persona y solo la acepte si es mayor a 0.
+INICIO
+  escribir: ingrese el numero
+  leer numero
+  si numero > 0
+  escribir: numero correcto 
+  sino
+  escribir: intentar de nuevo, el numero debe ser mayor
+FIN
+
+  
+Realiza una prueba de escritorio para un algoritmo que multiplique dos números ingresados por el usuario.
+INICIO
+  escribir: ingrese N1 
+  leer N1
+  escribir: ingrese N2
+  leer N2 
+  resultado = N1*N2 
+  escribir el resultado
+FIIN 
+PRUEBA 
+N1= 5 
+N2= 3 
+5*3= 15
+resultado: 15 
+
+
+Escribe un programa que pida un número y muestre si es par o impar utilizando validaciones y depuración con mensajes intermedios.
   

@@ -40,18 +40,29 @@ INICIO
 Dibujar un diagrama de flujo que represente el proceso de inscripción en una plataforma en línea.
 
 ![Imagen de WhatsApp 2025-03-20 a las 00 34 29_2bdfa3d4](https://github.com/user-attachments/assets/9abe7759-db06-495d-912f-01cad989d300)
+
 analizar la eficiencia de los siguientes algoritmos y expresarla en notación Big-O:
+
 Búsqueda secuencial en una lista.
 Ordenamiento por burbuja.
 Búsqueda binaria en una matriz ordenada.
+
 Implementar en pseudocódigo un algoritmo que calcula el factorial de un número.v 
+
 Declara una variable para almacenar la edad de una persona y asigna un valor. 
-edad= 20 la variable es la edad de una 
-persona 
+edad= 20 la variable es la edad de una persona 
+
 Escribe una expresión que combine operadores aritméticos y relacionales.
 comparacion (10 > 15) comparacion // falso 
+
 Convierte el número decimal 13 a binario.
 13= 1101
+
 Escribe una expresión que utilice operadores lógicos para verificar si un número está entre 10 y 20.
+resultado -( 18 < 17) y (18 >19) comparacion// verdadero 
 
 Implementa un algoritmo en PSeInt que utilice operadores aritméticos y lógicos para calcular si un número es par o impar.
+INICIO
+  escribir: ingrese el numero 
+  leer numero 
+  

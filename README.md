@@ -38,9 +38,8 @@ INICIO
   
   Leer numero 
   
-  mitad= Numero/2
-  
-  si mitad *2 == Numero
+  si número % 2==0
+ 
   
   esscribir: numero es par
   
